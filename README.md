@@ -1,25 +1,56 @@
-# README
+# A CRM  Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a [Ruby on Rails](https://rubyonrails.org/) and [React.js](https://reactjs.org/) based implementation of the **CRM** game.
 
-Things you may want to cover:
+## Built with
 
-* Ruby version
+- ruby 3.1.2
 
-* System dependencies
+- Rails 7.0.8
 
-* Configuration
+- Node : v16.20.2
 
-* Database creation
+- npm : 6.13.4 
 
-* Database initialization
+- Yarn : 1.21.1
 
-* How to run the test suite
+- React ^18.2.0
 
-* Services (job queues, cache servers, search engines, etc.)
+  
 
-* Deployment instructions
+## Quick Start
 
-* ...
-# crm_backend
+You need to have bundler installed in your system.
+
+**Step 1:** You can install it by typing:
+
+```bash
+$ gem install bundler
+```
+
+
+
+**Step 2:** Install all the related package.
+
+Open of a terminal window in the root of the project **/crm backend** and type :
+
+```bash
+$ bundle install
+```
+
+
+
+**Step 3:** Install the necessary node packages:
+
+```bash
+$ yarn install or 
+$ npm install
+```
+
+
+
+**Step 4:** Run the server:
+
+```bash
+$ rails s -p 8080
+```
