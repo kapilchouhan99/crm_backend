@@ -1,6 +1,8 @@
 # A CRM  Backend
 
-This is a [Ruby on Rails](https://rubyonrails.org/) and [React.js](https://reactjs.org/) based implementation of the **CRM** game.
+This is a [Ruby on Rails](https://rubyonrails.org/) and [React.js](https://reactjs.org/) based implementation of the **CRM** .
+
+Clone frontend repo from (https://github.com/kapilchouhan99/crm_frontend)
 
 ## Built with
 
